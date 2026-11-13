@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cbd5e1&height=220&section=header&text=Dhanush%20Shetty%20D&fontSize=52&fontColor=0b1220&animation=twinkling" alt="Dhanush Shetty D - CS Student" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cbd5e1&height=220&section=header&text=Dhanush%20Shetty%20.D&fontSize=52&fontColor=0b1220&animation=twinkling" alt="Dhanush Shetty D - CS Student" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=cbd5e1&center=true&vCenter=true&width=640&lines=CS+Student;Python+%26+C+Developer;Full-Stack+Web+Development;Exploring+Generative+AI;Building+SwasthElder" alt="Typing SVG" />
 
@@ -8,9 +8,6 @@
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Internships-cbd5e1?style=for-the-badge&labelColor=1e2327" alt="Open to work - internships" />
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dhanushshettyd2007-creator&color=cbd5e1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/dhanushshettyd2007-creator?tab=followers"><img src="https://img.shields.io/github/followers/dhanushshettyd2007-creator?style=for-the-badge&logo=github&color=cbd5e1&labelColor=1e2327" alt="GitHub followers" /></a>
 
 </div>
 
