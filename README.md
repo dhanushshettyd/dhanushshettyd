@@ -57,7 +57,7 @@ Medication management system for an old-age home.
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Dev tools" />
 
 
-## 🤝 Connect
+## 🫱🏻‍🫲🏻 Connect
 
 <div align="center">
 
