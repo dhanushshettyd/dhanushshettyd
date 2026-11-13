@@ -14,29 +14,6 @@
 
 </div>
 
----
-
-## 👨‍💻 Who I Am
-
-```typescript
-const dhanush = {
-  title: "CS Student",
-  stack: ["Python", "C", "React", "Generative AI", "Full-Stack Web Development", "Git"],
-  launchedProjects: [
-    "SwasthElder: medication management system for an old-age home",
-  ],
-  certifications: [
-    "C Programming Course (Infosys Springboard)",
-    "Introduction to IoT (Telecom Sector Skill Council, Skill India Digital Hub)",
-    "Introduction to Unix (Infosys Springboard)",
-    "AI Skills Passport (EY & Microsoft)",
-  ],
-  status: "CS student building full-stack and AI projects",
-  openTo: ["Internships"],
-};
-```
-
----
 
 ## 🚀 Featured Projects
 
@@ -82,30 +59,6 @@ Medication management system for an old-age home.
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Dev tools" />
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhanushshettyd2007-creator&show_icons=true&theme=nord&border_color=cbd5e1&title_color=cbd5e1&icon_color=cbd5e1&text_color=d8dee9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushshettyd2007-creator&layout=compact&theme=nord&border_color=cbd5e1&title_color=cbd5e1&text_color=d8dee9" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=dhanushshettyd2007-creator&theme=nord&ring=cbd5e1&fire=cbd5e1&currStreakLabel=cbd5e1&border=cbd5e1" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhanushshettyd2007-creator&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushshettyd2007-creator&bg_color=2e3440&color=cbd5e1&line=cbd5e1&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
----
 
 ## 🤝 Connect
 
