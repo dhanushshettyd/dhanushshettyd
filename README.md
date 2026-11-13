@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cbd5e1&height=220&section=header&text=Dhanush%20Shetty%20D&fontSize=52&fontColor=0b1220&desc=CS%20Student&descSize=24&descAlignY=65&animation=twinkling" alt="Dhanush Shetty D - CS Student" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cbd5e1&height=220&section=header&text=Dhanush%20Shetty%20D&fontSize=52&fontColor=0b1220&animation=twinkling" alt="Dhanush Shetty D - CS Student" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=cbd5e1&center=true&vCenter=true&width=640&lines=CS+Student;Python+%26+C+Developer;Full-Stack+Web+Development;Exploring+Generative+AI;Building+SwasthElder" alt="Typing SVG" />
 
@@ -33,7 +33,7 @@ Medication management system for an old-age home.
 | Icons | Lucide React |
 | Hosting | Netlify |
 
-🔗 **Live:** [swasthelder.netlify.app](https://swasthelder.netlify.app/) &nbsp;|&nbsp; 💻 **Code:** [Swasthelder](https://github.com/dhanushshettyd2007-creator/Swasthelder)
+🔗 **Live:** [swasthelder.netlify.app](https://swasthelder.netlify.app/) &nbsp;|&nbsp;
 
 ---
 
