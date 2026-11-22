@@ -108,6 +108,7 @@ Medication management system for an old-age home.
 
 | Event | Organised by | Date |
 | --- | --- | --- |
+| Alliance ONE, YUKTHI 2026: Merit Winner | Alliance University, Bengaluru | Oct 29–31, 2026 |
 | NEXORA TECHSPRINT 2K26 (National Technology & Innovation Championship): Certificate of Appreciation | S-VYASA Deemed to be University, Bengaluru | Nov 4–5, 2026 |
 | Codekala 3.0: Certificate of Participation | KS Institute of Technology, Bengaluru | — |
 
