@@ -51,7 +51,7 @@ Smart campus energy management dashboard with live monitoring of solar generatio
 
 ### SwasthElder
 
-Medication management system for an old-age home.
+AI-powered elderly care management platform designed for old-age homes. It simplifies medication management, tracks medicine schedules, and provides AI-based symptom analysis to support smarter, safer, and more accessible elderly healthcare.
 
 <a href="https://github.com/dhanushshettyd/Swasthelder">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushshettyd&repo=Swasthelder&theme=nord&border_color=cbd5e1&title_color=cbd5e1&icon_color=cbd5e1&text_color=d8dee9" alt="Swasthelder repo card" />
