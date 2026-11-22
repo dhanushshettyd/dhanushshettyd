@@ -9,12 +9,47 @@
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Internships-cbd5e1?style=for-the-badge&labelColor=1e2327" alt="Open to work - internships" />
 <br/><br/>
 
+<a href="https://swasthelder.netlify.app/"><img src="https://img.shields.io/badge/SwasthElder-Live-cbd5e1?style=flat-square&labelColor=1e2327" alt="SwasthElder live" /></a>
+<a href="https://projectsolarsync.netlify.app/"><img src="https://img.shields.io/badge/SolarSync-Live-cbd5e1?style=flat-square&labelColor=1e2327" alt="SolarSync live" /></a>
+<img src="https://komarev.com/ghpvc/?username=dhanushshettyd2007-creator&label=Profile%20views&color=cbd5e1&labelColor=1e2327&style=flat-square" alt="Profile views" />
+
 </div>
 
+<br/>
 
-## Featured Projects
+## 👋 About Me
 
-### SwasthElder
+I'm a Computer Science student who enjoys building projects that solve real problems, from a medication management system for an old-age home to a smart campus energy dashboard. I work with Python and C, build full-stack web apps, and am exploring generative AI.
+
+I'm currently **looking for internships**, so feel free to reach out.
+
+---
+
+## 🚀 Featured Projects
+
+### ☀️ SolarSync
+
+Smart campus energy management dashboard with live monitoring of solar generation, geothermal cooling, battery storage and campus loads, plus AI-based energy forecasts.
+
+<a href="https://github.com/dhanushshettyd/SolarSync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushshettyd&repo=SolarSync&theme=nord&border_color=cbd5e1&title_color=cbd5e1&icon_color=cbd5e1&text_color=d8dee9" alt="SolarSync repo card" />
+</a>
+
+| Layer | Technology |
+| --- | --- |
+| Framework | TanStack Start (React 19, SSR) |
+| Routing | TanStack Router |
+| Styling | Tailwind CSS, shadcn/ui |
+| Charts | Recharts |
+| Hosting | Netlify |
+
+**Pages:** Dashboard · Solar · Geothermal · Battery · Campus · AI Predictions
+
+🔗 **Live:** [projectsolarsync.netlify.app](https://projectsolarsync.netlify.app/) &nbsp;|&nbsp; 💻 **Code:** [GitHub](https://github.com/dhanushshettyd/SolarSync)
+
+<br/>
+
+### 💊 SwasthElder
 
 Medication management system for an old-age home.
 
@@ -30,7 +65,7 @@ Medication management system for an old-age home.
 | Icons | Lucide React |
 | Hosting | Netlify |
 
-🔗 **Live:** [swasthelder.netlify.app](https://swasthelder.netlify.app/) &nbsp;|&nbsp;
+🔗 **Live:** [swasthelder.netlify.app](https://swasthelder.netlify.app/) &nbsp;|&nbsp; 💻 **Code:** [GitHub](https://github.com/dhanushshettyd2007-creator/Swasthelder)
 
 ---
 
@@ -38,7 +73,7 @@ Medication management system for an old-age home.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,c,ts,js&theme=dark" alt="Languages" />
 
 **Frontend**
 
@@ -54,10 +89,35 @@ Medication management system for an old-age home.
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Dev tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Dev tools" />
 
+---
 
-## Connect
+## 📜 Certifications
+
+| Certificate | Issued by | Completed |
+| --- | --- | --- |
+| C Programming | Infosys Springboard | June 2026 |
+| Introduction to IoT | Telecom Sector Skill Council (Skill India Digital Hub) | June 2026 |
+| Introduction to Unix | Infosys Springboard | October 2026 |
+| AI Skills Passport | EY & Microsoft | — |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushshettyd2007-creator&show_icons=true&theme=nord&border_color=cbd5e1&title_color=cbd5e1&icon_color=cbd5e1&text_color=d8dee9&hide_border=false" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushshettyd2007-creator&layout=compact&theme=nord&border_color=cbd5e1&title_color=cbd5e1&text_color=d8dee9" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=dhanushshettyd2007-creator&theme=nord&border=cbd5e1&ring=cbd5e1&fire=cbd5e1&currStreakLabel=cbd5e1" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🤝 Connect
 
 <div align="center">
 
